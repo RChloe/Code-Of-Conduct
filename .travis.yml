@@ -1,0 +1,9 @@
+language: python
+python:
+ - "3.6"
+
+install:
+ - npm install -g prettier
+
+script:
+ - prettier --check --no-config *.md
