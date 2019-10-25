@@ -13,12 +13,13 @@ By exercising the Licensed Rights (defined below), You accept and agree to be bo
 7.  **Licensed Rights** means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.
 8.  **Licensor** means the individual(s) or entity(ies) granting rights under this Public License.
 9.  **Share** means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.
-10.  **Sui Generis Database Rights** means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.
-11.  **You** means the individual or entity exercising the Licensed Rights under this Public License. **Your** has a corresponding meaning.
+10. **Sui Generis Database Rights** means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.
+11. **You** means the individual or entity exercising the Licensed Rights under this Public License. **Your** has a corresponding meaning.
 
 **Section 2 – Scope.**
 
 1.  **License grant**.
+
     1.  Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
         1.  reproduce and Share the Licensed Material, in whole or in part; and
         2.  produce, reproduce, and Share Adapted Material.
@@ -35,6 +36,7 @@ By exercising the Licensed Rights (defined below), You accept and agree to be bo
         </div>
 
     6.  <span style="text-decoration: underline;">No endorsement</span>. Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section [3(a)(1)(A)(i)](#s3a1Ai).
+
 2.  **Other rights**.
 
     1.  Moral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.
@@ -57,6 +59,7 @@ Your exercise of the Licensed Rights is expressly made subject to the following 
             5.  a URI or hyperlink to the Licensed Material to the extent reasonably practicable;
         2.  indicate if You modified the Licensed Material and retain an indication of any previous modifications; and
         3.  indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.
+
     2.  You may satisfy the conditions in Section [3(a)(1)](#s3a1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
     3.  If requested by the Licensor, You must remove any of the information required by Section [3(a)(1)(A)](#s3a1A) to the extent reasonably practicable.
     4.  If You Share Adapted Material You produce, the Adapter's License You apply must not prevent recipients of the Adapted Material from complying with this Public License.
@@ -76,7 +79,7 @@ For the avoidance of doubt, this Section [4](#s4) supplements and does not repla
 1.  **Unless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.**
 2.  **To the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. Where a limitation of liability is not allowed in full or in part, this limitation may not apply to You.**
 
-1.  The disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.
+3.  The disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.
 
 **Section 6 – Term and Termination.**
 
@@ -85,6 +88,7 @@ For the avoidance of doubt, this Section [4](#s4) supplements and does not repla
 
     1.  automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or
     2.  upon express reinstatement by the Licensor.For the avoidance of doubt, this Section [6(b)](#s6b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.
+
 3.  For the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.
 4.  Sections [1](#s1), [5](#s5), [6](#s6), [7](#s7), and [8](#s8) survive termination of this Public License.
 
@@ -100,9 +104,8 @@ For the avoidance of doubt, this Section [4](#s4) supplements and does not repla
 3.  No term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.
 4.  Nothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.
 
-Creative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licensor.” The text of the Creative Commons public licenses is dedicated to the public domain under the [CC0 Public Domain Dedication](//creativecommons.org/publicdomain/zero/1.0/legalcode). Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at [creativecommons.org/policies](//creativecommons.org/policies), Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses.  
+Creative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licensor.” The text of the Creative Commons public licenses is dedicated to the public domain under the [CC0 Public Domain Dedication](//creativecommons.org/publicdomain/zero/1.0/legalcode). Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at [creativecommons.org/policies](//creativecommons.org/policies), Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses.
 
 Creative Commons may be contacted at [creativecommons.org](//creativecommons.org/).
 
 <a name="languages">Additional languages available</a>: [Bahasa Indonesia](//creativecommons.org/licenses/by/4.0/legalcode.id), [Nederlands](//creativecommons.org/licenses/by/4.0/legalcode.nl), [norsk](//creativecommons.org/licenses/by/4.0/legalcode.no), [suomeksi](//creativecommons.org/licenses/by/4.0/legalcode.fi), [te reo Māori](//creativecommons.org/licenses/by/4.0/legalcode.mi), [українська](//creativecommons.org/licenses/by/4.0/legalcode.uk), [日本語](//creativecommons.org/licenses/by/4.0/legalcode.ja). Please read the [FAQ](//wiki.creativecommons.org/FAQ#officialtranslations) for more information about official translations.
-
